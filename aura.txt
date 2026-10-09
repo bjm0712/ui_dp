@@ -1,1 +1,0 @@
-A smart contract protocol that manages liquidity pools to allow automated asset trading via mathematical formulas
